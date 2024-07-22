@@ -1,4 +1,4 @@
-# DownTimer
+# DownTimer Docs
 
 **When your phone or PC timer is not enough.**
 
